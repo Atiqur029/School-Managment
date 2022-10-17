@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077490654336",
+    "project_id": "scholl-manager",
+    "storage_bucket": "scholl-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077490654336:android:fe7673a62032dc0cd15a65",
+        "android_client_info": {
+          "package_name": "com.example.school_managment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077490654336-dturss0mfr6t1pgn5p992up971ntpl6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ga6tyRjT6oUt9wiIVj3MfeT8xhVgt9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077490654336-dturss0mfr6t1pgn5p992up971ntpl6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
